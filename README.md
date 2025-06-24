@@ -140,12 +140,10 @@ usage endpoint sample response
 
 ## 👤 About the Author
 
-Built by [Arman Shirzad](armanshirzad.guru)
+Built by [Arman Shirzad](https://armanshirzad.guru)
+
 Software Engineer
 M.Sc. Artificial Intelligence student at Brandenburg Technical University
-
-[See my full CV →](./ARMAN%20SHIRZAD%20CV.pdf)
-
 ---
 
 ## 📝 License
