@@ -1,0 +1,2 @@
+project_id = "perfect-period-463312-g7"
+api_image  = "gcr.io/your-project/analytics-api:latest"

@@ -1,0 +1,8 @@
+[
+  {"name": "timestamp", "type": "TIMESTAMP", "mode": "REQUIRED"},
+  {"name": "project_id", "type": "STRING", "mode": "REQUIRED"},
+  {"name": "service", "type": "STRING", "mode": "REQUIRED"},
+  {"name": "resource", "type": "STRING", "mode": "REQUIRED"},
+  {"name": "usage_amount", "type": "FLOAT", "mode": "NULLABLE"},
+  {"name": "cost_usd", "type": "FLOAT", "mode": "NULLABLE"}
+]
