@@ -1,6 +1,6 @@
 
 # Cloud Resource Analytics 
-
+![demo](assets/gcp.gif)
 A serverless, production-grade GCP dashboard for real-time cloud usage, cost analytics, and cost-saving recommendations—built for rapid demonstration, technical interviews, and hands-on learning.
 
     +------------------------------+
